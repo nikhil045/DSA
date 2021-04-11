@@ -1,2 +1,2 @@
 # DSA
-# Edited by nikhil
+# Edited by nikhil and nitish
